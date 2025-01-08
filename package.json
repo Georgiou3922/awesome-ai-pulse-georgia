@@ -1,0 +1,10 @@
+{
+  "name": "awesome-ai-pulse-georgia",
+  "version": "0.1.0",
+  "description": "A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources \u2014 by AI Pulse Georgia",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
