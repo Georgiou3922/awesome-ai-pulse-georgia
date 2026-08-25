@@ -1,6 +1,6 @@
 {
   "name": "awesome-ai-pulse-georgia",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "description": "A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources \u2014 by AI Pulse Georgia",
   "main": "src/index.ts",
   "scripts": {
